@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="944acb77-0ae9-45a9-9c48-b95a0f7f234e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoWt4BuTfuEcsT0JLZzpRhRINZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ass3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.GeometryTester">
+    <configuration name="PointTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ass2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractArtDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractArtDrawing" />
+      <module name="ass2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallsTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BallsTest1" />
+      <module name="ass2" />
+      <option name="PROGRAM_PARAMETERS" value="12 20 30 40 50 20 10 " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeometryTester" />
+      <module name="ass2" />
+      <option name="PROGRAM_PARAMETERS" value="10 50 20 60 30 70 40" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleFramesBouncingBallsAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleFramesBouncingBallsAnimation" />
+      <module name="ass2" />
+      <option name="PROGRAM_PARAMETERS" value="10 20 30 40 50 10 20 " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGuiExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleGuiExample" />
+      <module name="ass2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lineCheck" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Line" />
+      <module name="ass2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.PointTest" />
+      <item itemvalue="Application.SimpleGuiExample" />
+      <item itemvalue="Application.lineCheck" />
+      <item itemvalue="Application.AbstractArtDrawing" />
+      <item itemvalue="Application.LineCheck" />
+      <item itemvalue="Application.BallsTest1" />
+      <item itemvalue="Application.GeometryTester" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeometryTester" />
+        <item itemvalue="Application.GeometryTester" />
+        <item itemvalue="Application.BallsTest1" />
+        <item itemvalue="Application.LineCheck" />
+        <item itemvalue="Android JUnit.PointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="944acb77-0ae9-45a9-9c48-b95a0f7f234e" name="Default Changelist" comment="" />
+      <created>1585506138296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585506138296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="0" width="575" height="680" key="#LineCheck" timestamp="1587502785512">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#LineCheck/0.0.1280.680@0.0.1280.680" timestamp="1587502785512" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1585989697794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585989697794" />
+    <state x="360" y="0" width="575" height="680" key="#Tester" timestamp="1587502533994">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#Tester/0.0.1280.680@0.0.1280.680" timestamp="1587502533994" />
+    <state x="145" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590491390140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="145" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590491390140" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590491386509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1590491386509" />
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585989364768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585989364768" />
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585989362809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1585989362809" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1588022062136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588022062136" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1588053719334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588053719334" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1588053719334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588053719334" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1588053719334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588053719334" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1588053719334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588053719334" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586857142900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586857142900" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586857142900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586857142900" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586857142900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586857142900" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586857142900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586857142900" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586871652313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586871652313" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1590491341851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590491341851" />
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587502215880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1587502215880" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585506242497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585506242497" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1586694702193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1586694702193" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586792262502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586792262502" />
+  </component>
+</project>
